@@ -1,0 +1,20 @@
+{
+    "name": "FACS01.Utilities.Editor.OMI",
+    "rootNamespace": "FACS01.Utilities",
+    "references": [
+        "GUID:446464ecd6d4678498d4207fb459ea67"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "FACSUTILS_DISABLE_OMI"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
